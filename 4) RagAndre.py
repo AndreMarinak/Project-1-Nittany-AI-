@@ -10,7 +10,7 @@ Original file is located at
 from openai import OpenAI
 import numpy as np
 
-client = OpenAI(api_key="sk-proj-3q2xNQD1H75Z*************************************t8aHZQajDOUT3OMa3JUBKWrNzYYzmeW3-81CaKuMVtdJzazvFPRdxjAA")
+client = OpenAI(api_key="*************************************")
 
 with open('messi.txt', "r") as f:
     text = f.read()
